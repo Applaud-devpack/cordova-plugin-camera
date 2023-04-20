@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-camera",
-  "version": "0.0.0",
+  "name": "cordova-plugin-applaudcamera",
+  "version": "1.0.1",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-camera",
+    "id": "cordova-plugin-applaudcamera",
     "platforms": [
       "android",
       "ios",
@@ -13,8 +13,8 @@
       "osx"
     ]
   },
-  "repository": "github:apache/cordova-plugin-camera",
-  "bugs": "https://github.com/apache/cordova-plugin-camera/issues",
+  "repository": "github:Applaud-devpack/cordova-plugin-camera",
+  "bugs": "https://github.com/Applaud-devpack/cordova-plugin-camera/issues",
   "keywords": [
     "cordova",
     "camera",
@@ -23,7 +23,8 @@
     "cordova-ios",
     "cordova-browser",
     "cordova-windows",
-    "cordova-osx"
+    "cordova-osx",
+    "applaud"
   ],
   "scripts": {
     "test": "npm run lint",
